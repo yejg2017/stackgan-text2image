@@ -35,3 +35,27 @@ mkdir checkpoints cvpr2016_flowers 102flowers Data imagenet
 - [Skip Thought Vectors][12] Code
 - [Generative Adversarial Text-to-Image Synthesis with Skip Thought Vectors](https://github.com/paarthneekhara/text-to-image) TensorFlow code
 - [DCGAN in Tensorflow][3]
+
+
+### thanks to
+[0]:https://github.com/zsdonghao/text-to-image
+嘻嘻
+## License
+Apache 2.0
+
+
+[1]:http://arxiv.org/abs/1506.06726
+[2]:http://arxiv.org/abs/1605.05396
+[3]:https://github.com/zsdonghao/dcgan
+[4]:https://github.com/tensorflow/tensorflow
+[5]:http://www.h5py.org/
+[6]:https://github.com/Theano/Theano
+[7]:http://scikit-learn.org/stable/index.html
+[8]:http://www.nltk.org/
+[9]:http://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+[10]:https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view
+[11]:https://github.com/reedscot/icml2016
+[12]:https://github.com/ryankiros/skip-thoughts
+[13]:https://github.com/ryankiros/skip-thoughts#getting-started
+[14]:https://bitbucket.org/paarth_neekhara/texttomimagemodel/raw/74a4bbaeee26fe31e148a54c4f495694680e2c31/latest_model_flowers_temp.ckpt
+
