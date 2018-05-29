@@ -38,8 +38,11 @@ mkdir checkpoints cvpr2016_flowers 102flowers Data imagenet
 
 
 ### thanks to
+
 [very much]:(https://github.com/zsdonghao/text-to-image)
+https://github.com/zsdonghao/text-to-image
 嘻嘻
+
 ## License
 Apache 2.0
 
